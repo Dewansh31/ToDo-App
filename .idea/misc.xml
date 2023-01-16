@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ToDoApp/app/src/main/res/drawable/btn_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ToDoApp/app/src/main/res/drawable/ic_add.xml" value="0.165" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ToDoApp/app/src/main/res/drawable/ic_done.xml" value="0.2595" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ToDoApp/app/src/main/res/drawable/ic_finished.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ToDoApp/app/src/main/res/drawable/ic_home.xml" value="0.2595" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ToDoApp/app/src/main/res/drawable/ic_refresh.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ToDoApp/app/src/main/res/drawable/img_shadow.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ToDoApp/app/src/main/res/drawable/input_field.xml" value="0.1" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ToDoApp/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ToDoApp/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ToDoApp/app/src/main/res/layout/activity_register.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ToDoApp/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ToDoApp/app/src/main/res/layout/app_bar_layout.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ToDoApp/app/src/main/res/layout/custom_dialog_layout.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ToDoApp/app/src/main/res/layout/finished_task_item_holder.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ToDoApp/app/src/main/res/layout/fragment_finished_task.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ToDoApp/app/src/main/res/layout/fragment_home.xml" value="0.2578125" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ToDoApp/app/src/main/res/layout/navigation_header.xml" value="0.264" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ToDoApp/app/src/main/res/layout/todo_list_item.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ToDoApp/app/src/main/res/menu/main_menu.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Dell/AndroidStudioProjects/ToDoApp/app/src/main/res/menu/menu.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11 (5)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
