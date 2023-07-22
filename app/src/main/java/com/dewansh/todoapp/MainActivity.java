@@ -92,7 +92,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void getUserProfile() {
 
-        String url = "https://todo-api-production-1058.up.railway.app/auth";
+        String url = "https://todo-api-dewansh.onrender.com/auth";
 
         final String token = sharedPreferenceClass.getValue_string("token");
 

@@ -136,7 +136,7 @@ public class HomeFragment extends Fragment implements RecyclerViewClickListener{
         arrayList = new ArrayList<>();
         progressBar.setVisibility(View.VISIBLE);
 
-        String url = "https://todo-api-production-1058.up.railway.app/todo";
+        String url = "https://todo-api-dewansh.onrender.com/todo";
 
         JsonObjectRequest jsonObjectRequest = new JsonObjectRequest(Request.Method.GET,
                 url, null, new Response.Listener<JSONObject>() {
@@ -338,7 +338,7 @@ public class HomeFragment extends Fragment implements RecyclerViewClickListener{
 
     // Delete Todo Method
     private void deleteTodo(final String id, final  int position) {
-        String url = "https://todo-api-production-1058.up.railway.app/todo/"+id;
+        String url = "https://todo-api-dewansh.onrender.com/todo/"+id;
 
         JsonObjectRequest jsonObjectRequest = new JsonObjectRequest(Request.Method.DELETE, url, null
                 , new Response.Listener<JSONObject>() {
@@ -370,7 +370,7 @@ public class HomeFragment extends Fragment implements RecyclerViewClickListener{
     // Add Todo Task Method
     private void addTask(String title, String description) {
 
-        String url = "https://todo-api-production-1058.up.railway.app/todo";
+        String url = "https://todo-api-dewansh.onrender.com/todo";
 
         HashMap<String, String> body = new HashMap<>();
         body.put("title", title);
@@ -428,7 +428,7 @@ public class HomeFragment extends Fragment implements RecyclerViewClickListener{
     // Update Todo Task Method
     private  void  updateTask(String id, String title, String description) {
 
-        String url = "https://todo-api-production-1058.up.railway.app/todo/"+id;
+        String url = "https://todo-api-dewansh.onrender.com/todo/"+id;
 
         HashMap<String, String> body = new HashMap<>();
         body.put("title", title);
@@ -471,7 +471,7 @@ public class HomeFragment extends Fragment implements RecyclerViewClickListener{
     // Update to finished task
     private void updateToFinishTodo(String id,final int position) {
 
-        String url = "https://todo-api-production-1058.up.railway.app/todo/"+id;
+        String url = "https://todo-api-dewansh.onrender.com/todo/"+id;
 
         HashMap<String, String> body = new HashMap<>();
         body.put("finished", "true");

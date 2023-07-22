@@ -94,7 +94,7 @@ public class RegisterActivity extends AppCompatActivity {
         params.put("email", email);
         params.put("password", password);
 
-        String apiKey = "https://todo-api-production-1058.up.railway.app/auth/register";
+        String apiKey = "https://todo-api-dewansh.onrender.com/auth/register";
 
         JsonObjectRequest jsonObjectRequest = new JsonObjectRequest(Request.Method.POST, apiKey, new JSONObject(params), new Response.Listener<JSONObject>() {
             @Override
